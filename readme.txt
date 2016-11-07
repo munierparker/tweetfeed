@@ -3,6 +3,7 @@ TweetFeed, by Munier Parker (2016).
 Instructions to Run:
 - Go to the “dist” folder.
 - Make sure “java.exe” is in the Classpath
+- Make sure that at least Java runtime version 1.8.0.91 is used.
 - Run it with “java -jar TweetFeed.jar <user file> <tweet file>”
 - <user file> = user.txt (or other)
 - <tweet file> = tweet.txt (or other)
